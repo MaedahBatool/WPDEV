@@ -1,6 +1,6 @@
 # .github/workflows/main.yml
 
-# on: push
+on: push
 
 jobs:
   backfill-commits:
