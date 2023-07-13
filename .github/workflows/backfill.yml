@@ -12,6 +12,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GIT_EMAIL: me@MaedahBatool.com
-        MAX_DAYS: 120
+        MAX_DAYS: 200
         MIN_COMMITS_PER_DAY: 3
         MAX_COMMITS_PER_DAY: 6
