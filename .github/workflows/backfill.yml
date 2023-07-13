@@ -1,6 +1,6 @@
 # .github/workflows/main.yml
-
-on: push
+# Uncomment to dun.
+# on: push
 
 jobs:
   backfill-commits:
